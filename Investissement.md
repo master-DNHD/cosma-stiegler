@@ -1,0 +1,13 @@
+---
+title: Investissement
+id: 20211124103229
+type: Vocabulaire
+---
+
+La capacité d’investissement, telle qu’elle caractérise la société industrielle qui se trouve requise par le machinisme, est ce qui suppose du capital libre – libre de s’investir dans un risque entrepreneurial qu’il accompagne et dont il est distinct : il n’y a pas de capitalisme sans économie bancaire.
+
+Mais l’investissement (dans la langue de Freud, *Besetzung*) est aussi ce qui caractérise le désir dans son rapport à l’objet, et par où précisément ses énergies primaires (les pulsions) transformé en énergie libidinale investie dans un objet, ce qui suppose que l’énergie pulsionnelle soit elle-même libre, c’est à dire capable de se détourner de son but premier : ce que Freud nomme *freie Energie*.
+
+Pour *Ars Industrialis*, le capitalisme n’est pas seulement un mode de production industriel ni une financiarisation de l’échange marchand : il est d’abord une économie libidinale qui,dans sa forme actuelle, a conduit à l’*épuisement du désir*, ce pourquoi le capitalisme est devenu auto-destructeur. Dire du capitalisme actuel qu’il est privé de désir, c’est dire que le capitalisme n’investit plus, qu’il tend à épuiser toute possibilité d’investissement. Ce qui s’épuise n’est pas seulement le capitalisme hyper-spéculatif à tendance mafieuse, mais l’investissementen général, soit le désir du consommateur qui ne désire plus ce qu’il consomme, mais qui en est devenu dépendant – le marketing de l’addiction sollicitant désormais directement ses pulsions. Les politiciens qui tentent de nous rassurer en annonçant la « relance par la consommation » ne comprennent pas que c’est elle qui est devenue le problème puisqu’elle fait désormais système avec un capitalisme financier fondé sur le désinvestissement : sur l’infidélité systémique de tous à l’égard de tous et de tous à l’égard de tout.
+
+Le nouveau capitalisme mondial ne renouvellera ses énergies qu’à la condition d’inventer une nouvelle logique et de nouveaux objets d’investissements, au double sens de l’économie industrielle et de l’économie libidinale, en tirant parti des technologies numériques de l’esprit qui rompent structurellement avec le modèle fondé sur l’opposition production/consommation – l’impératif n’étant ni la relance par la consommation, ni une pseudo-relance par l’investissement dans le modèle consumériste, mais la relance par la reconstruction du désir.

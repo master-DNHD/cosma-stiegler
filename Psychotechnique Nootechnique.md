@@ -1,0 +1,13 @@
+---
+title: Psychotechnique Nootechnique
+id: 20211124114623
+type: Vocabulaire
+---
+
+Une « psychotechnique » est littéralement une technique sur ou de l’esprit. Après la psychotechnique du livre, qui est aussi bien celle de la philosophie et de l’Humanisme[[1\]](https://arsindustrialis.org/vocabulaire-psychotechnique-nootechnique#_ftn1) que des religions du Livre, les psychotechniques telles la radio, la télévision, les ordinateurs et le réseau numérique, produites par une industrie, et non plus par une religion, forment le *medium* contemporain de l’esprit. Si l’on affirme que le psychique ne se limite pas au cerveau, et que l’appareil psychique humain se distribue, se dissémine et se délègue dans un ensemble de prothèses et d’appareils techniques qu’il peut et doit adopter en retour, on change alors à la fois de définition de l’esprit et de définition de la technique.
+
+Les techniques *de* l’esprit (*nootechnniques*), les techniques et pratiques favorisant l’esprit et son individuation, doivent se distinguer des techniques mises en œuvre *aux dépens* de et *sur* ou*contre* l’esprit (*psychotechniques*), qui formatent l’esprit dans le but de le contrôler. C’est une opposition normative, assumée comme telle.
+
+La *psychè* est individuelle, le *noos* est transindividuel, et les deux termes désignent l’esprit qui n’est ni l’un ni l’autre, mais entre-deux. Une seule et même technique peut avoir des effets différents, opposés même : elle est pharmacologique. Pour dire vite, son effet dépendra de son insertion dans le milieu social. La télévision peut être une nootechnique, mais elle ne l’est que très rarement, car tel n’est pas son but : il est devenu psychotechnologique. De même, le milieu psychotechnique qu’est le livre ne devient un milieu *nootechnique* que s’il ouvre et constitue l’un par l’autre un public critique et un milieu associé, et réciproquement, la psychotechnique qu’est l’écriture ne devient une nootechnique que si elle s’adresse à un public de lecteurs qui, sachant lire, savent aussi écrire, et savent faire de l’écriture une capacité critique en formant des circuits longs (anamnésiques) de transindividuation, c’est à dire des disciplines toujours elles-mêmes fondées sur des techniques de soi.
+
+ C’est cette réciprocité où celui qui lit (destinataire) est en position d’écrire (destinateur) en vue de s’individuer qui distingue fondamentalement la nootechnologie de la psychotechnologie ; c’est elle qui fonde quelque chose comme un bien commun. Un bien commun n’étant pas seulement un bien appartenant à tous, mais un bien qui est réalisée selon la réciprocité artiste-public ou écrivain-lecteur.

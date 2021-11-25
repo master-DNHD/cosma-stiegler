@@ -1,0 +1,31 @@
+---
+title: Attention, Retention, Protention
+id: 20211124001007
+type: Vocabulaire
+---
+
+L’attention, la rétention et la protention forment la vie de la conscience. Si « l’ordre chronologique » est celui de la  _rétention du passé_, de l’_attention_  _au présent_, et de la  _protention à venir_, l’ordre logique et phénoménologique (c’est à dire tel qu’il  _se présente_  à la conscience) impose de commencer par le milieu : par l’attention, qui ouvre l’une à l’autre rétention et protention.
+
+**Attention**. L’attention est par excellence la modalité de la conscience : « être conscient » c’est être attentif. L’attention est ce qui  _constitue_  les objets de la conscience, même si toute conscience n’est pas attentive – toute attention étant évidemment consciente. La vie de l’_attention_  se situe entre les  _rétentions_  (la mémoire) et les  _protentions_  (le projet, l'attente, le désir) qu’elle lie en étant ouverte à ce qui advient dans le « maintenant » depuis ce qu’elle retient de ce qui est advenu (rétention) et en attente de ce qui est en train d’advenir (protention).
+
+L’attention n’est pas un réflexe ; autrement dit, l’attention est quelque chose qui se forme et qui forme. La formation de l’attention est toujours à la fois psychique et sociale, car  _l’attention est à la fois attention psychologique_, perceptive ou cognitive (« être attentif », vigilant, concentré) et  _attention sociale_, pratique ou éthique (« faire attention », prendre soin) : l’attention qui est la faculté psychique de se concentrer sur un objet, de se donner un objet, est aussi la faculté sociale de prendre soin de cet objet.
+
+Il y a des techniques de captation de l’attention dont le but est de former l’attention (ainsi du livre), d’autres dont le but est de la capturer et de la canaliser – ce qui conduit à la dé-former, l’épuiser et la détruire. L’attention fait aujourd’hui l’objet d’une exploitation industrielle où la « matière première » valorisée – et la ressource rare – est devenue la capacité d’attention des consommateurs[[1]](https://arsindustrialis.org/vocabulaire-attention-retention-protention#_ftn1). Toujours plus, et par tous les moyens, l’industrie publicitaire tente de capter notre attention, et personne n’échappe à cette saturation cognitive et affective. Il est désormais prouvé que l’usage massif des médias de masse dès le plus jeune âge conduit à un « _attention deficit discorder_ »[[2]](https://arsindustrialis.org/vocabulaire-attention-retention-protention#_ftn2). Le cerveau nourri au zapping perd l’attention un peu comme celui qui mange devant la télévision perd le goût de ce qu’il mange – et parfois perd l’appétit, parfois devient boulimique.
+
+**Rétention**. Les rétentions sont ce qui est retenu ou recueilli par la conscience. Ce terme est emprunté à Husserl ; mais les rétentions  _tertiaires_  sont propres à la philosophie de Bernard Stiegler.
+
+_Rétentions primaires_. Elles sont ce qui  _arrive_  au temps de la conscience, ce que la conscience retient dans le « maintenant qui passe », dans le flux  _perceptif_  qui soutient la conscience. Par exemple, la rétention primaire est la  _présence_  de la note  _tout juste_  _passée_  dans une mélodie, qui a pour conséquence que le « mi » actuel n’est pas le même selon qu’il est précédé d’un « ré » ou d’un « fa ».
+
+_Rétentions secondaires_. Les rétentions secondaires sont d’anciennes rétentions primaires (retenues par notre conscience) devenues des  _souvenirs_. Elles appartiennent à la mémoire imaginative – je « vais chercher » mes souvenirs –, et non plus à la rétention-perception, sur laquelle elles ont cependant un impact. Les rétentions primaires sont en effet des sélections, car le flux de conscience que vous êtes ne peut pas tout retenir : ce que vous retenez est ce que vous êtes, mais ce que vous retenez dépend ce que vous avez déjà retenu.
+
+_Rétentions tertiaires_. Elles sont le propre de l’espèce humaine. Ce sont les sédimentations hypomnésiques qui se sont accumulées au cours des générations en se spatialisant et en se matérialisant dans un monde d’artefacts – « supports de mémoire », c’est-à-dire  _hypomnémata_  –, et qui permettent de ce fait un processus d’individuation psycho-socio-technique. Les rétentions tertiaires surdéterminent les rétentions secondaires qui surdéterminent les rétentions primaires
+
+**Protention**. La protention est le temps du désir ou le temps de la question, qui suppose le temps de l’attention et le temps des rétentions (tertiaires). En effet, d’une part il n’est pas de protention soutenable sans attention aux « consistances », d’autre part toute possibilité de  _pro_tention est  _pré_cédée par une projection prothétique. Autrement dit, c’est parce que l’homme est défini par son  _pharmakon_  technique que l’humain fait question, ou mieux que l’humain  _se fait_  question et se trouve  _mis_  en question.
+
+La protention est le désir (et l’attente) de l’à venir, elle est ce qui dans le devenir constitue la possibilité de l’avenir – étant entendu que le devenir peut n’engager aucun avenir. Pour que l’à venir prenne consistance, il faut au minimum échapper au court-termisme qui gouverne notre monde. C’est là tout le paradoxe : la finance, qui est originellement le temps du crédit, soit donc l’organisation de protentions, accompagne aujourd’hui une économie consumériste qui détruit la possibilité même de se projeter dans l’à venir.
+
+----------
+
+[[1]](https://arsindustrialis.org/vocabulaire-attention-retention-protention#_ftnref)cf. Jeremy Rifkin,  _L’Age de l’accès. La nouvelle culture du capitalisme_, La Découverte, 2005.
+
+[[2]](https://arsindustrialis.org/vocabulaire-attention-retention-protention#_ftnref)cf. Katherine Hayles,  _Hyper and Deep Attention : the Generational Divide in Cognitive modes_, 2007. Elle y montre que les cerveaux soumis aux  _riche media_  perdent leur  _deep attention_  au profit d’une  _hyper_  _attention_. Bernard Stiegler critique cette dernière expression en insistant sur le fait qu’il s’agit plutôt d’alerte, de vigilance— ou encore du « zapping » — que de réflexion ou d’attention. L’hyper-stimulation de l’attention mène en réalité à un déficit attentionnel.

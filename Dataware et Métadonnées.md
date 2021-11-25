@@ -1,0 +1,23 @@
+---
+title: Dataware et Métadonnées
+id: 20211124001015
+type: Vocabulaire
+---
+
+_Le mot**« data »**_signifie « données _»_  et le mot « **_ware_** » ; que l'on retrouve dans « _hardware »_  et « _software »_, vient du vieil écossais et signifie  _« objet de soin »._
+
+L'histoire de l'informatique et des technologies de l'information a successivement porté son attention sur les différentes couches de son architecture que sont le  _hardware_  (le matériel), le  _software_  (le logiciel) et le  _netware_  (le  _réseau_). Après le règne du  _hardware_  (dominé par IBM) et du  _software_  (dominé par Microsoft) ce sont les données des utilisateurs qui font l’objet de tous les soins des entreprises du web 2.0, ce pourquoi nous parlons de  _dataware_  (dominé par Google). Le  _dataware_  désigne donc une attention toute particulière portée aux données, à leur collecte et leur agrégation à partir desquelles des services sont proposés.
+
+**_Hardware_**_,**Software**_,  **_Netware_**,  **_Dataware_**  sont les quatre vagues d’architecture qui ont marqué la conception des systèmes d’information.
+
+**1**. La première vague d’architecture est celle du  _Hardware,_  dominée par l’entreprise IBM (_International Business Machines_) et ses  _Mainframes_, gros serveurs centralisés auquel on accède par des terminaux dit "passifs" car ils n'ont aucune autonomie en matière de puissance de calcul et de stockage, et aucune autre finalité que de pouvoir se connecter au système central.
+
+**2**. La deuxième vague est celle du  _Software_, dominée par l’entreprise  _Microsoft_  et son architecture « client lourd ». « Lourd » signifie ici que les terminaux disposent d'une puissance de calcul et de stockage qui va permettre, entre autres, l’expansion de la bureautique et plus généralement des logiciels que l'on peut installer et utiliser sur un ordinateur, même sans accès à un serveur. La démocratisation du PC (_Personal Computer_) verra l’avènement, et le quasi-monopole, du célèbre système d'exploitation  _Windows_  de Microsoft.
+
+**3**. La troisième vague d'architecture est celle du  _Netware_, dominée par l’entreprise  _Sun_  (qui est l'acronyme  _de Stanford University Network_). Ici on parle d'architecture trois-tiers car on distingue la couche où sont stockées les données, celle où les règles fonctionnelles et métiers sont effectuées par les algorithmes et, finalement, la couche dite de présentation – celle que voit l’utilisateur sur son écran. Dans cette architecture, le fait que les données soient distribuées et accessibles via un réseau est prise en compte. On accède aux applications avec un client léger – et ce client léger n'est autre qu'un navigateur web.
+
+**4**. Enfin, nous sommes à présent rentrés dans une quatrième vague d'architecture que l'on nomme  _dataware_. Cette architecture est celle du web actuel (dans la mouvance de ce qu'on appelle le web 2.0), et elle est dominée par l’entreprise  _Google_. Ainsi, les nouvelles « usines » (entièrement automatisées…et dont la matière première est fournie par les contributeurs des réseaux) du XXIe  siècle sont des  _data centers_  qui fournissent de la puissance de calcul et de la capacité de stockage (ce qui ne peut se faire sans une colossale dépense d’énergie et la pollution qui en découle).
+
+_Dataware_désigne une tendance majeure où les données et la manière d'y accéder et de les manipuler deviennent un enjeu technologique, industriel et économique. Il s'agit par exemple, pour les services de réseaux sociaux, de capturer et de « tracer » le plus de données sur les utilisateurs du service. Et il s’agit, pour les moteurs de recherche, de parcourir et d'indexer le plus de documents sur le web.
+
+Les  **métadonnées**, données sur les données, sont ce qui permet de mettre en relation des données. Les métadonnées existent depuis la Mésopotamie, où l’on a trouvé des tablettes d’argiles qui décrivaient des stocks de tablettes et constituaient en cela des catalogues. Il n’y avait jamais eu de métadonnées qui n’aient pas été produites par des démarches de contrôle _top down_, hiérarchiques, descendantes et centralisées (contrôle impérial en Mésopotamie, etc.). Or, depuis 1992, depuis l’apparition du  _world wide web_, la production de métadonnées – c’est-à-dire des éléments de base de la synchronisation – est devenue un processus  _bottom up_, réticulaire, ascendant et décentralisé. A vrai dire, c’est cette opposition elle-même qu’il faut remettre en question.

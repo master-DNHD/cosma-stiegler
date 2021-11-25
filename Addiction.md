@@ -1,0 +1,15 @@
+---
+title: Addiction
+id: 20211124001002
+type: Vocabulaire
+---
+
+« Addiction » provient du verbe latin  _addicere_, qui est un composé du latin  _dicere_  (dire), et qui signifie littéralement « dire pour », « être favorable à », « s’adonner ou se vouer à » quelque chose. L’adjectif  _addictus_  désigne plus particulièrement l’esclave pour dette.
+
+Cette étymologie indique déjà le parcours qui peut être celui de toute « addiction » comprise en un sens étendu : depuis la faveur, le culte, l’attachement pour un objet, jusqu’à la dépendance et l’aliénation à son égard. Ainsi comprise, l’addiction n’est pas nécessairement pathologique, et l’on peut soutenir que l’existence humaine a quelque chose d’addictif, dans la mesure où elle se déploie comme désir, investissements et amours successifs.
+
+Mais le terme d’addiction désigne aujourd’hui une forme pathologique du désir, qui marque la régression de celui-ci au stade du besoin et de la compulsion mono-maniaque : en ce sens, l’addict, avec ou sans « produit », est celui dont l’existence est comme réduite et simplifiée à sa plus simple expression, à ce que W. S. Burroughs appelait « l’algèbre du besoin ». Alors que le désir est ce qui en principe se distingue du besoin ou de la pulsion, ce qui la sublime et l’élève, la conduite addictive est au contraire le signe d’un affaiblissement des capacités sublimatoires et symboliques du sujet, c’est-à-dire de sa désubjectivation.
+
+Or, la société consumériste qui est la nôtre, par le culte fétichiste de la marchandise et par la sollicitation permanente des pulsions d’achat qu’elle entretient, est  _structurellement addictogène_ : sous l’impulsion d’Edward Bernays et de la science du marketing, elle a fait du comportement compulsif ou toxicomaniaque du consommateur son modèle. Comme le remarquait W. S. Burroughs, qui écrit dans  _Le festin nu_  que « la came est la marchandise par excellence », le  _dealer_  de drogue réalise en quelque sorte l’idéal du marketing pensé par Bernays : que le client  _réclame_  de lui-même le produit et y voue son existence. L’hyper-consommation engage ainsi la population toute entière sur la voie des comportements addictifs, dans la mesure où elle cherche à capter systématiquement l’énergie libidinale des consommateurs, dès leur plus jeune âge, pour la détourner vers les objets de consommation, engendrant ainsi des phénomènes d’accoutumance et de dépendance, mais aussi de dégoût. L’hyper-consommation, dont les formes les plus graves sont maintenant prises en charge par les centres d’addictologie, entre ainsi tendanciellement dans le cercle vicieux du comportement toxicomaniaque, de plus en plus insensible au monde et à lui-même, et tentant de compenser cette désaffection par un surcroît de consommation frénétique qui aggrave sa déshérence.
+
+Ce faisant, le capitalisme consumériste tend à inciter à l’addiction, épuiser l’énergie libidinale, et interdire la sublimation des pulsions. Ce ne sont pas seulement les drogués qui souffrent de l’addiction, mais l’homme, ses milieux psycho-sociaux et la planète elle-même qui sont peu à peu ruinés par un  _mode de vie addictif et toxique_.

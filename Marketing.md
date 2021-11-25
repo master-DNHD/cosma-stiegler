@@ -1,0 +1,28 @@
+---
+title: Marketing
+id: 20211124103623
+type: Vocabulaire
+---
+
+L’individu ne consomme les produits industriels qu’en méta-consommant, si l’on peut dire,  des machines à sonder et à façonner des comportements. Le marketing désigne précisément le fait que, dans la consommation, le produit consommé est paradoxalement devenu secondaire. Lorsque l’Etat use des mêmes méthodes et des mêmes fins que le marché, on peut parler d’un Empire du « management ».
+
+Marx a pu écrire : « Ce n’est pas seulement l’objet de la consommation, mais aussi le mode de consommation qui est produit par la production »[1] ; en écho Lazzarato a pu écrire : « En renversant la définition marxienne on pourrait dire : le capitalisme n’est pas un mode de production, mais une production de modes »[2], c’est-à-dire qu’il ne crée pas tant des choses que des mondes, des manières, soit des milieux – en l’occurrence, dissociés
+
+Le marketing publicitaire matraque : c’est là son premier principe. Il n’informe pas tant (*adverstising*) qu’il incite : c’est une technique d’incitation à un comportement, soit une psychotechnologie. Cette technique façonne un monde de services où les consommateurs ne produisent plus rien de ce qu’ils consomment – sinon comme prolétaires qui ignorent tout des conditions de leurs propres productions. Comme prolétaires, ils ont perdu le savoir de leurs propres productions : ce savoir est passé dans la machine de production.
+
+Pour comprendre cet impouvoir qui se nomme « pouvoir d’achat » – histoire indissolublement psychique, sociale et technique –, il convient de se remémorer qu’il n’existe pas de pouvoir d’achat sans pouvoir de *propagande*, aujourd’hui nommé *marketing* (cf. Edward Bernays[3]). Le but ultime du marketing fut ainsi résumé :
+
+Nous devons faire passer l’Amérique d’une culture des besoins à une culture du désir. Les gens doivent être entraînés à désirer, à vouloir de nouvelles choses, avant même que les anciennes aient été entièrement consommées[4].
+
+Après la naissance du marketing (Ernest Dichter, Louis Cheskin), il est clair que *le but n’est plus de former et d’exploiter des producteurs, mais de contrôler des comportements de consommateurs*. Depuis les années 50-60, l’enjeu est d’assurer moins la production que la vente et la consommation des biens produits par un appareil structurellement en surproduction – les groupes industriels, devenus mondiaux, visant explicitement à s’assurer le contrôle comportemental des individus, c’est à dire leur esprit, leur désir, leur identité.
+
+La publicité *distrait*, au sens pascalien du terme. Elle est la propagande de distraction qui soutient notre capitalisme. Le propos de Patrick Le Lay, PDG de TF1, fera date pour sa lucidité cynique : « Mon travail est de vendre du temps de cerveau disponible à Coca-Cola[5] ». Il s’agit bien de distraire l’esprit pour capter son attention vers la consommation. « L’homme distrait, remarquait Benjamin, est tout à fait capable de s’accoutumer[6] ».
+
+
+[1]Marx, *Contribution à l’économie politique*, Éditions sociales, 1968, p.156.
+[2]Lazzarato, «  Les Révolutions du capitalisme », http://seminaire.samizdat.net/Les-Revolutions-du-Capitalisme.html
+[3]Le père des « relations publiques », c’est-à-dire selon ses propres mots de la « propagande en temps de paix », baptisa son inventions *engineering of consent*. Bernays, pourrait-on dire, c’est du Gustave Lebon (et sa psychologie des foules) accompagné d’Ivan Pavlov (et ses réflexes conditionnés). Cf. E. Bernays, *Propaganda*, Horace Liveright, New York, 1928, et le très bon documentaire d’Adam Curtis, « *The Century of the Self* », BBC (consultable en ligne). Sur ce sujet on pourra lire, par exemple, Vance Packard, *La Persuassion clandestine*, Calmann-Lévy, 1958.
+[4]Paul Mazur, cité par Al Gore, *La Raison assiégée*, Seuil, 2007, p. 103 [Mazur, associé d’Edward Bernays, était un grand banquier de Wall Street (Lehman Brothers)].
+[5]« Il y a beaucoup de façons de parler de la télévision. Mais dans une perspective 'business', soyons réaliste : à la base, le métier de TF1, c'est d'aider Coca-Cola, par exemple, à vendre son produit. […]. Or pour qu'un message publicitaire soit perçu, il faut que le cerveau du téléspectateur soit disponible. Nos émissions ont pour vocation de le rendre disponible : c'est-à-dire de le divertir, de le détendre pour le préparer entre deux messages. Ce que nous vendons à Coca-Cola, c'est du temps de cerveau humain disponible. […]. Rien n'est plus difficile que d'obtenir cette disponibilité. C'est là que se trouve le changement permanent. Il faut chercher en permanence les programmes qui marchent, suivre les modes, surfer sur les tendances, dans un contexte où l'information s'accélère, se multiplie et se banalise […]. La télévision, c'est une activité sans mémoire. Si l'on compare cette industrie à celle de l'automobile, par exemple, pour un constructeur d'autos, le processus de création est bien plus lent ; et si son véhicule est un succès il aura au moins le loisir de le savourer. Nous, nous n'en aurons même pas le temps ! […] Tout se joue chaque jour sur les chiffres d'audience. Nous sommes le seul produit au monde où l'on 'connaît' ses clients à la seconde, après un délai de vingt-quatre heures. » Patrick Le Lay, *Les Dirigeants face au changement*, Éditions du huitième jour, 2004.
+
+[6]Walter Benjamin, « L’œuvre d’art à l’ère de sa reproductibilité technique », *Œuvres III*, Gallimard, p. 109
