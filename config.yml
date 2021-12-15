@@ -1,0 +1,38 @@
+files_origin: 'D:\dev\cosma-stiegler\'
+export_target: 'C:\Users\login\Desktop\'
+history: false
+focus_max: 2
+record_types:
+  undefined: gray
+  Sphère: purple
+  Date: teal
+  Auteur: blue
+  Livre: brown
+  Citation: orange
+  Vocabulaire: green
+link_types:
+  undefined:
+    stroke: simple
+    color: '#cccccc'
+graph_background_color: '#ffffff'
+graph_highlight_color: '#ee2121'
+graph_highlight_on_hover: true
+graph_text_size: 10
+graph_arrows: true
+attraction_force: 600
+attraction_distance_max: 200
+attraction_vertical: 0.05
+attraction_horizontal: 0.05
+views: {}
+title: ''
+author: ''
+description: ''
+keywords: []
+link_symbol: ''
+csl: ''
+bibliography: ''
+csl_locale: ''
+css_custom: ''
+devtools: false
+minify: false
+lang: fr
