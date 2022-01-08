@@ -1,0 +1,9 @@
+---
+title: Capitalisme 30583
+id: 20220108246171
+type: Citation
+---
+
+> jeune entrepreneur formant l’idéal type à l’ori- gine du capitalisme doit ... inspirer à ses clients et à ses ouvriers une confiance absolue en ses innovations. [...] Mais ces qualités éthiques sont très diffé- rentes de celles qui, naguère, étaient requises par la tradition2. 1. M. Weber, *L'Éthique protestante et l'esprit ducapitalisme, op. cit.*, p. 69- 70. 2. *Ibid.*, p. 71. [102] Le capitalisme est une innovation dans les modes de produc- tion et de consommation qu’il faut développer contre la tradi- tion, ce qui suppose le développement d’une confiance qui vient se heurter à une croyance, et qui constitue en cela
+
+Lu dans *Mécréance et discrédit 1* [[20211125162124]], à propos de [[20211124001013]]
